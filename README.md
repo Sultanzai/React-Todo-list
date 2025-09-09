@@ -57,17 +57,19 @@ One-Way Data Flow -------------	Parent → Child (e.g., TodoApp → TodoList →
 🚀 Getting Started
 -------------
 1. Clone the repository
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Sultanzai/todo-app.git
 cd todo-app
 
 3. Install dependencies
-npm install
+  npm install
 
-4. Run the app
-npm start
+5. Run the app
+  npm start
 
 Your app will now be running at:
-http://localhost:3000
+
+  http://localhost:3000
 
 GitHub: @Sultanzai
+
 Email: emransoltanzoy@gmail.com
