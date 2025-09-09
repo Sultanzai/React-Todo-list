@@ -69,4 +69,5 @@ npm start
 Your app will now be running at:
 http://localhost:3000
 
-
+GitHub: @Sultanzai
+Email: emransoltanzoy@gmail.com
